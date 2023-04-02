@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  /* Styling the header */
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 25px;
+}
+
+header h1 {
+	margin: 0;
+    text-align: center;
+	text-size-adjust: 30px;
+	font-family: 'Rubik Mono One', sans-serif;
+
+}
+  
+  body {
+    font-family: "Josefin Sans", sans-serif;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
